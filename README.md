@@ -4,4 +4,4 @@ This site is currently under development, linking to current projects from the B
 
 Projects:
 
-* [Canadian Pacific sea-surface temperature and chlorophyll-a from Marine Protected Areas and regions of interest](https://bio-rsg.github.io/SST_Chla_Report.html)
+* [Canadian Pacific sea-surface temperature and chlorophyll-a from Marine Protected Areas and regions of interest](https://bio-rsg.github.io/BIO-RSG/SST_Chla_Report.html)
