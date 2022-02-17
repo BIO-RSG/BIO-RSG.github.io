@@ -15,6 +15,14 @@
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="250"/>
 </a>
 
+## Datasets:
+
+*
+
+## Recent Publications and Reports:
+* Wilson, K., Wong, M. and Devred, E. 2020. [Branching Algorithm to Identify Bottom Habitat in the Optically Complex Coastal Waters of Atlantic Canada Using Sentinel-2 Satellite Imagery.](https://www.frontiersin.org/articles/10.3389/fenvs.2020.579856/full) Front. Environ. Sci., 8. 10.3389/fenvs.2020.579856
+* Hardy, M., Devred, E., and Hannah, C. 2021. [Satellite observations of the Northeast Pacific Ocean.](https://waves-vagues.dfo-mpo.gc.ca/Library/4092855x.pdf) Can. Tech. Rep. Hydrogr. Ocean Sci. 335: vii + 46 p.
+
 ## Other:
 
 * [oceancolouR](https://github.com/BIO-RSG/oceancolouR): an (unofficial) R package with useful ocean colour processing functions
