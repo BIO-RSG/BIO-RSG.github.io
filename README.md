@@ -1,9 +1,16 @@
 ## Projects:
 
-* [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing satellite chlorophyll-a and modelling phytoplankton blooms in Canadian waters
-<a target="_blank" href="images/screencap01.png">
-<img src="images/screencap01.png" alt="Screencap of the PhytoFit app" width="250"/>
-</a>
+<table>
+  <tr>
+    <td width="280" valign="top">* [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing satellite chlorophyll-a and modelling phytoplankton blooms in Canadian waters</td>
+    <td width="20" valign="top"></td>
+    <td width="250" valign="top">
+        <a target="_blank" href="images/screencap01.png">
+        <img src="images/screencap01.png" alt="Screencap of the PhytoFit app" width="250"/>
+        </a>
+    </td>
+  </tr>
+</table>
 
 * [Canadian Pacific sea-surface temperature and chlorophyll-a from Marine Protected Areas and regions of interest](https://bio-rsg.github.io/SST_Chla_Report.html)
 <a target="_blank" href="images/screencap_sst_chla.png">
