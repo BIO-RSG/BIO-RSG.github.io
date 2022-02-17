@@ -1,5 +1,3 @@
-# BIO-RSG
-
 ## Projects:
 
 * [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing satellite chlorophyll-a and modelling phytoplankton blooms in Canadian waters
