@@ -6,8 +6,8 @@
 </a>
 
 * [Canadian Pacific sea-surface temperature and chlorophyll-a from Marine Protected Areas and regions of interest](https://bio-rsg.github.io/SST_Chla_Report.html)
-<a target="_blank" href="images/screencap_sst_chl.png">
-<img src="images/screencap_sst_chl.png" alt="Screencap of sea surface temperature and chlorophyll-a time series" width="250"/>
+<a target="_blank" href="images/screencap_sst_chla.png">
+<img src="images/screencap_sst_chla.png" alt="Screencap of sea surface temperature and chlorophyll-a time series" width="250"/>
 </a>
 
 * [Recent maps and buoy data of Canadian Pacific sea-surface temperature tracking marine heatwaves](https://github.com/BIO-RSG/Pacific_SST_NRT_Monitoring)
