@@ -17,7 +17,15 @@
 
 ## Datasets:
 
-*
+#### Arctic:
+
+* *coming soon*
+
+#### Pacific: 
+* [Chlorophyll-a monthly climatology](https://open.canada.ca/data/en/dataset/5a7d1e1b-edeb-4a32-b17f-2ef053ca22d5) of the Pacific Exclusive Economic Zone, 2003-2020 (1 km and 4km spatial resolution, MODIS-Aqua)
+* [Sea Surface Temperature monthly climatology](https://open.canada.ca/data/en/dataset/ecca47d7-835b-419f-91ae-ae4f601070a3) of the Pacific Exclusive Economic Zone, 2003-2020 (1 km, MODIS-Aqua)
+* [Sea Surface Temperature monthly climatology](https://open.canada.ca/data/en/dataset/cec45ade-3647-4aec-84f1-8cb68dd305c2) of the Pacific Exclusive Economic Zone, 1981-2010 (4 km, AVHRR)
+* [Sea Surface Temperature monthly climatology](https://open.canada.ca/data/en/dataset/a67df54b-286d-4eb6-9b38-474f1efe86db) of the Pacific Exclusive Economic Zone, 1990-2020 (4 km, AVHRR)
 
 ## Recent Publications and Reports:
 
