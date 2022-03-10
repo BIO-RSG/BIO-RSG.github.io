@@ -29,8 +29,8 @@
 
 #### Atlantic:
 
-* [Bottom Habitat Maps](https://github.com/BIO-RSG/Worldview3_Sentinel_Comparison_Project) of vegetated habitat it select regions of Nova Scotia, 2016-2020 (2 m and 10 m spatial resolution)
-* Sea Surface Temperature seasonal and yearly climatologies of select regions in Nova Scotia, 2013-2020 (30 m  spatial resolution contact; contact for dataset) 
+* [Bottom Habitat Maps](https://github.com/BIO-RSG/Worldview3_Sentinel_Comparison_Project) of vegetated habitat it select regions of Nova Scotia, 2016-2020 (2 m and 10 m spatial resolution, Worldview-3 & Sentinel-2)
+* Sea Surface Temperature seasonal and yearly climatologies of select regions in Nova Scotia, 2013-2020 (30 m  spatial resolution contact, Landsat-8; contact for dataset) 
 
 ## Recent Publications and Reports:
 
