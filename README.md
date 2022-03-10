@@ -31,7 +31,8 @@
 
 * Galley, R., Devred, E., Hilborn, A, Michel, C. 2022. [Remotely-sensed sea-ice and chlorophyll a variability in the Beaufort Sea from 1998 to 2020.](https://waves-vagues.dfo-mpo.gc.ca/Library/41030035.pdf) Can. Tech. Rep. Hydrogr. Ocean Sci. 339: x + 90 p.
 * Hardy, M., Devred, E., and Hannah, C. 2021. [Satellite observations of the Northeast Pacific Ocean.](https://waves-vagues.dfo-mpo.gc.ca/Library/4092855x.pdf) Can. Tech. Rep. Hydrogr. Ocean Sci. 335: vii + 46 p.
-* Wilson, K., Wong, M. and Devred, E. 2020. [Branching Algorithm to Identify Bottom Habitat in the Optically Complex Coastal Waters of Atlantic Canada Using Sentinel-2 Satellite Imagery.](https://www.frontiersin.org/articles/10.3389/fenvs.2020.579856/full) Front. Environ. Sci., 8. 10.3389/fenvs.2020.579856
+* Wilson, K. L., Wong, M. C. and Devred, E. 2020. [Branching Algorithm to Identify Bottom Habitat in the Optically Complex Coastal Waters of Atlantic Canada Using Sentinel-2 Satellite Imagery.](https://www.frontiersin.org/articles/10.3389/fenvs.2020.579856/full) Front. Environ. Sci., 8: 579856. doi.org/10.3389/fenvs.2020.579856
+*  Wilson, K. L., Wong, M. C. and Devred, E. 2022. [Comparing Sentinel-2 and WorldView-3 Imagery for Coastal Bottom Habitat Mapping in Atlantic Canada.](https://www.mdpi.com/2072-4292/14/5/1254/htm) Remote Sens., 14(5): 1254. doi.org/10.3390/rs14051254 
 
 
 ## Other:
