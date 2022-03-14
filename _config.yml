@@ -2,3 +2,24 @@ theme: jekyll-theme-minimal
 title: [Bedford Institute of Oceanography Remote Sensing Group Project Page]
 description: [This site is currently under development linking to current projects from the Bedford Institute of Oceanography Remote Sensing Group.]
 classes: wide
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  
+# Details:
+author:
+  name   : "BIO-RSG"
+  bio    : "Project page for the Bedford Institute of Oceanography Remote Sensing Group"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/bio-rsg"
