@@ -1,16 +1,16 @@
 ## Projects:
 
-* [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing satellite chlorophyll-a and modelling phytoplankton blooms in Canadian waters
+* [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing and modelling phytoplankton blooms in Canadian waters
 <a target="_blank" href="images/screencap01.png">
 <img src="images/screencap01.png" alt="Screencap of the PhytoFit app" width="250"/>
 </a>
 
-* [Canadian Pacific sea-surface temperature and chlorophyll-a from Marine Protected Areas and regions of interest](https://bio-rsg.github.io/SST_Chla_Report.html)
+* [Sea-surface temperature and chlorophyll-a concentration time series](https://bio-rsg.github.io/SST_Chla_Report.html) in Pacific Marine Protected Areas and regions of interest
 <a target="_blank" href="images/screencap_sst_chla.png">
 <img src="images/screencap_sst_chla.png" alt="Screencap of sea surface temperature and chlorophyll-a time series" width="250"/>
 </a>
 
-* [Recent maps and buoy data of Canadian Pacific sea-surface temperature tracking marine heatwaves](https://github.com/BIO-RSG/Pacific_SST_NRT_Monitoring)
+* [Recent sea-surface temperature and anomaly maps and buoy time series](https://github.com/BIO-RSG/Pacific_SST_NRT_Monitoring) of the Northeast Pacific for tracking marine heatwaves
 <a target="_blank" href="images/screencap_sst_nrt.png">
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="250"/>
 </a>
