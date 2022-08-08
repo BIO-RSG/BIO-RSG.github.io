@@ -18,6 +18,7 @@
 
 ## Recent Publications and Reports:
 
+* Hilborn, A., Devred, E. **2022**. [Delineation of Eastern Beaufort Sea Sub-regions Using Self-Organizing Maps Applied to 17 Years of MODIS-Aqua Data.](https://www.frontiersin.org/articles/10.3389/fmars.2022.912865/full) Front. Mar. Sci., 9:912865. doi:10.3389/fmars.2022.912865
 *  Wilson, K. L., Wong, M. C. and Devred, E. **2022.** [Comparing Sentinel-2 and WorldView-3 Imagery for Coastal Bottom Habitat Mapping in Atlantic Canada.](https://www.mdpi.com/2072-4292/14/5/1254/htm) Remote Sens., 14(5): 1254. doi:10.3390/rs14051254 
 * Galley, R., Devred, E., Hilborn, A, Michel, C. **2022.** [Remotely-sensed sea-ice and chlorophyll a variability in the Beaufort Sea from 1998 to 2020.](https://waves-vagues.dfo-mpo.gc.ca/Library/41030035.pdf) Can. Tech. Rep. Hydrogr. Ocean Sci. 339: x + 90 p.
 * Hardy, M., Devred, E., and Hannah, C. **2021.** [Satellite observations of the Northeast Pacific Ocean.](https://waves-vagues.dfo-mpo.gc.ca/Library/4092855x.pdf) Can. Tech. Rep. Hydrogr. Ocean Sci. 335: vii + 46 p.
