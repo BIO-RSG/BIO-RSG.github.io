@@ -1,8 +1,5 @@
 ---
-layout: page
-title: BIO Remote Sensing Group
-tagline: Project page for the Bedford Institute of Oceanography Remote Sensing Group
-description: This site links to current projects from the Bedford Institute of Oceanography Remote Sensing Group.
+layout: default
 ---
 
 ## Projects:
