@@ -20,6 +20,11 @@ layout: default
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="250"/>
 </a>
 
+* [Validation of chlorophyll-a models](https://github.com/BIO-RSG/chla_model_performance_summary.html) 
+<a target="_blank" href="images/screencap_chla_model.png">
+<img src="images/screencap_chla_model.png" alt="Screencap of chla validation plots" width="250"/>
+</a>
+
 ## Recent Publications and Reports:
 
 * Devred, E., Perry, T., Massicotte, P. **2022**. [Seasonal and decadal variations in absorption properties of phytoplankton and non-algal particulate matter in three oceanic regimes of the Northwest Atlantic.](https://www.frontiersin.org/articles/10.3389/fmars.2022.932184/full) Front. Mar. Sci., 9. doi:10.3389/fmars.2022.932184
