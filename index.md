@@ -26,7 +26,7 @@ layout: default
 </a>
 
 ## Recent Publications and Reports:
-
+* Clay, S. and Devred, E. **2023**. [SOPhyE Satellite Data Processing Technical Report Series: 1. Ocean Colour Satellite Intercalibration.](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4119620x.pdf) Can. Tech. Rep. Fish. Aquat. Sci. 3560: vi + 42 p. 
 * Devred, E., Perry, T., Massicotte, P. **2022**. [Seasonal and decadal variations in absorption properties of phytoplankton and non-algal particulate matter in three oceanic regimes of the Northwest Atlantic.](https://www.frontiersin.org/articles/10.3389/fmars.2022.932184/full) Front. Mar. Sci., 9. doi:10.3389/fmars.2022.932184
 * Hilborn, A., Devred, E. **2022**. [Delineation of Eastern Beaufort Sea Sub-regions Using Self-Organizing Maps Applied to 17 Years of MODIS-Aqua Data.](https://www.frontiersin.org/articles/10.3389/fmars.2022.912865/full) Front. Mar. Sci., 9:912865. doi:10.3389/fmars.2022.912865
 *  Wilson, K. L., Wong, M. C. and Devred, E. **2022.** [Comparing Sentinel-2 and WorldView-3 Imagery for Coastal Bottom Habitat Mapping in Atlantic Canada.](https://www.mdpi.com/2072-4292/14/5/1254/htm) Remote Sens., 14(5): 1254. doi:10.3390/rs14051254 
