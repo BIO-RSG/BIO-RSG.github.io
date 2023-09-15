@@ -4,12 +4,18 @@ logo: /images/logo_sopheye.png
 description: An overview of recent projects by the remote sensing group located at BIO in Dartmouth, Nova Scotia, Canada
 classes: wide
 
+github_username:  bio-rsg
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
+  - jekyll-gist  
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
@@ -21,6 +27,7 @@ minima:
     - { platform: github,  user_url: "https://github.com/bio-rsg" }
   
 # Details:
+
 #author:
  # name   : "BIO-RSG"
   #bio    : "Project page for the Bedford Institute of Oceanography Remote Sensing Group"
