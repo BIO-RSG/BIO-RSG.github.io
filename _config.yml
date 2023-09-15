@@ -1,6 +1,4 @@
 theme: minima
-minima:
-  skin: solarized-dark
 title: Bedford Institute of Oceanography Remote Sensing Group
 logo: /images/logo_sopheye.png
 description: An overview of recent projects by the remote sensing group located at the Bedford Institute of Oceanography in Dartmouth, Nova Scotia, Canada
@@ -15,15 +13,19 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
+
+# Appearance
+minima:
+  skin: solarized-dark
   
 # Details:
-author:
-  name   : "BIO-RSG"
-  bio    : "Project page for the Bedford Institute of Oceanography Remote Sensing Group"
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/bio-rsg"
+#author:
+ # name   : "BIO-RSG"
+  #bio    : "Project page for the Bedford Institute of Oceanography Remote Sensing Group"
+  #links:
+   # - label: "Website"
+    #  icon: "fas fa-fw fa-link"
+     # url: "https://"
+    #- label: "GitHub"
+     # icon: "fab fa-fw fa-github"
+      #url: "https://github.com/bio-rsg"
