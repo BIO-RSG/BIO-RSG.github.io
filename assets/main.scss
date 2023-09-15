@@ -4,9 +4,9 @@
 @import "minima";
 
 
-//@import
-//  "minima/skins/{{ site.minima.skin | default: 'solarized-dark' }}",
-//  "minima/initialize";
+@import
+  "minima/skins/{{ site.minima.skin | default: 'solarized-dark' }}",
+  "minima/initialize";
 
 //.site-title::before {
 //	content: url("/images/logo_sopheye_small.png");
