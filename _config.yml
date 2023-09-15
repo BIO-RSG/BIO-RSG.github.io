@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: solarized-dark
 title: Bedford Institute of Oceanography Remote Sensing Group
 logo: /images/logo_sopheye.png
 description: An overview of recent projects by the remote sensing group located at the Bedford Institute of Oceanography in Dartmouth, Nova Scotia, Canada
