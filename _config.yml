@@ -13,6 +13,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 header_pages:
   - index.md
   - refs.md
+  - datasets.md
 
 # Plugins (previously gems:)
 plugins:
