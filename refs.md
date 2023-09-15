@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 ## Recent Publications
 
 * Clay, S. and Devred, E. **2023**. [SOPhyE Satellite Data Processing Technical Report Series: 1. Ocean Colour Satellite Intercalibration.](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4119620x.pdf) Can. Tech. Rep. Fish. Aquat. Sci. 3560: vi + 42 p. 
