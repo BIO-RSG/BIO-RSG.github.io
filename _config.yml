@@ -17,6 +17,8 @@ plugins:
 # Appearance
 minima:
   skin: solarized-dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/bio-rsg" }
   
 # Details:
 #author:
