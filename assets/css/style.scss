@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+.site-title::before {
+	content: url("/images/logo_sopheye.png");
+	display: inline-block;
+	position: relative;
+	width: 35px;
+	top: 10px;
+}
