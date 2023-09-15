@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "minima";
 
 .site-title::before {
 	content: url("/images/logo_sopheye.png");
