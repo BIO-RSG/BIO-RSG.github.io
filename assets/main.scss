@@ -4,8 +4,8 @@
 @import "minima";
 
 .site-title::before {
-	content: url("/images/logo_sopheye.png");
-	display: inline-flex;
+	content: url("/images/logo_sopheye_small.png");
+	display: inline-block;
 	position: relative;
 	width: 35px;
 	height: 10px;
