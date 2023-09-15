@@ -1,4 +1,6 @@
 theme: minima
+# remote_theme: jekyll/minima # up-to-date repo on github
+
 title: Bedford Institute of Oceanography Remote Sensing Group
 logo: /images/logo_sopheye.png
 description: An overview of recent projects by the remote sensing group located at BIO in Dartmouth, Nova Scotia, Canada
