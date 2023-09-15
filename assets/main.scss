@@ -3,15 +3,3 @@
 
 @import "minima";
 
-
-@import
-  "minima/skins/{{ site.minima.skin | default: 'solarized-dark' }}",
-  "minima/initialize";
-
-//.site-title::before {
-//	content: url("/images/logo_sopheye_small.png");
-//	display: inline-block;
-//	position: relative;
-//	width: 37px;
-//	top: 5px;
-//}
