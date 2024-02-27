@@ -26,10 +26,3 @@ The list below makes up a few of our ongoing projects.
 <a target="_blank" href="images/screencap_sst_nrt.png">
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="250"/>
 </a>
-
-* [Sea-surface temperature and chlorophyll-a concentration time series](https://bio-rsg.github.io/SST_Chla_Report.html) in Pacific Marine Protected Areas and regions of interest
-
-
-<a target="_blank" href="images/screencap_sst_chla.png">
-<img src="images/screencap_sst_chla.png" alt="Screencap of sea surface temperature and chlorophyll-a time series" width="250"/>
-</a>
