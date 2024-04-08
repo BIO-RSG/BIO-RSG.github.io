@@ -2,27 +2,19 @@
 layout: default
 ---
 
-## Ongoing Projects
+## Overview
 
-The list below makes up a few of our ongoing projects. 
+The Satellite Ocean colour and Phytoplankton Ecology group (SOPhyE), previously known as the Remote Sensing Group.  
 
-* [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing and modelling phytoplankton blooms in Canadian waters
+### Members
 
+#### <a href="https://orcid.org/0000-0001-9446-0005"><img src="images/orcidlogo.png" width="15"></a> Emmanuel Devred  
 
-<a target="_blank" href="images/screencap01.png">
-<img src="images/screencap01.png" alt="Screencap of the PhytoFit app" width="250"/>
-</a>
+#### <a href="https://orcid.org/0000-0001-5113-2378"><img src="images/orcidlogo.png" width="15"></a> Stephanie Clay  
 
-* [Validation of chlorophyll-a models](https://bio-rsg.github.io/chla_model_performance_summary.html)
+#### <a href="https://orcid.org/0000-0002-3685-1531"><img src="images/orcidlogo.png" width="15"></a> Kristen Wilson  
 
+#### <a href=""><img src="images/orcidlogo.png" width="15"></a> Melanie Hardy  
 
-<a target="_blank" href="images/screencap_chla_model.png">
-<img src="images/screencap_chla_model.png" alt="Screencap of chla validation plots" width="250"/>
-</a>
+#### <a href="https://orcid.org/0000-0002-5967-5788"><img src="images/orcidlogo.png" width="15"></a> Andrea Hilborn (honorary member at IOS)  
 
-* [Recent sea-surface temperature and anomaly maps and buoy time series](https://github.com/BIO-RSG/Pacific_SST_NRT_Monitoring) of the Northeast Pacific for tracking marine heatwaves
-
-
-<a target="_blank" href="images/screencap_sst_nrt.png">
-<img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="250"/>
-</a>
