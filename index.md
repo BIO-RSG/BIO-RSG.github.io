@@ -16,5 +16,7 @@ The Satellite Ocean colour and Phytoplankton Ecology group (SOPhyE), previously 
 
 #### <a href=""><img src="images/orcidlogo.png" width="15"></a> Melanie Hardy  
 
+#### <a href=""><img src="images/orcidlogo.png" width="15"></a> Raven Elwell  
+
 #### <a href="https://orcid.org/0000-0002-5967-5788"><img src="images/orcidlogo.png" width="15"></a> Andrea Hilborn (honorary member at IOS)  
 
