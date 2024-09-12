@@ -7,7 +7,7 @@ layout: default
 
 Primary publications: :blue_square: Technical reports: :red_square:  
 <br>
-
+:red_square: Wilson, K.L., Wong, M.C., and Devred, E. 2024. [Mapping eelgrass habitat in southern Nova Scotia with Worldview-2/3 satellite imagery.](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41256505.pdf) Can. Tech. Rep. Fish. Aquat. Sci. 3629: ix + 42 p.  
 :red_square: Devred E., Wilson K. L., Perry T., Hardy M., Brosnahan M., and Ringuette M. **2024**. [Identification and validation of phytoplankton taxonomic assemblages derived from pigment signatures using samples collected in the Labrador Sea from 2014 to 2022.](https://www.researchgate.net/publication/379220093_Identification_and_validation_of_phytoplankton_taxonomic_assemblages_derived_from_pigment_signatures_using_samples_collected_in_the_Labrador_Sea_from_2014_to_2022_Canadian_Technical_Report_of_Fisherie) Can. Tech. Rep. Fish. Aquat. Sci. 3596: viii + 55 p.  
 :blue_square: Wilson, K., Hilborn, A., Clay, S. and Devred, E. **2024**. [Improving Satellite Chlorophyll-a Retrieval in the Turbid Waters of the Bay of Fundy, Canada.](https://doi.org/10.1007/s12237-024-01334-x) Estuaries and Coasts. doi:10.1007/s12237-024-01334-x  
 :red_square: Clay, S. and Devred, E. **2023**. [SOPhyE Satellite Data Processing Technical Report Series: 1. Ocean Colour Satellite Intercalibration.](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/4119620x.pdf) Can. Tech. Rep. Fish. Aquat. Sci. 3560: vi + 42 p.   
