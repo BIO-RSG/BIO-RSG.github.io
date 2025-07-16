@@ -14,9 +14,9 @@ The Satellite Ocean colour and Phytoplankton Ecology group (SOPhyE), previously 
 
 #### <a href="https://orcid.org/0000-0002-3685-1531"><img src="images/orcidlogo.png" width="15"></a> Kristen Wilson  
 
-#### Melanie Hardy  
+#### <img src="images/orcidlogo.png" width="15"> Melanie Hardy  
 
-#### Tim Perry   
+#### <img src="images/orcidlogo.png" width="15"> Tim Perry   
 
 ### Previous members
 
