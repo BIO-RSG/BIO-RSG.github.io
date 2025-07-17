@@ -3,7 +3,7 @@ theme: minima
 
 title: Bedford Institute of Oceanography Remote Sensing Group
 logo: /images/logo_sopheye.png
-description: An overview of recent projects by the remote sensing group located at BIO in Dartmouth, Nova Scotia, Canada
+description: An overview of the remote sensing group located at BIO in Dartmouth, Nova Scotia, Canada
 classes: wide
 
 github_username:  bio-rsg
@@ -12,9 +12,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 header_pages:
   - index.md
-  - projects.md
-  - refs.md
+  - team.md
+  - satellite.md
+  - field.md
+  - lab.md
   - datasets.md
+  - publications.md
+
 
 # Plugins (previously gems:)
 plugins:

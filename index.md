@@ -4,23 +4,20 @@ layout: default
 
 ## Overview
 
-The Satellite Ocean colour and Phytoplankton Ecology group (SOPhyE), previously known as the Remote Sensing Group.  
+<b>The Satellite Ocean colour and Phytoplankton Ecology group (SOPhyE)</b> primarily works in the fields of biological oceanography, bio-optics, and satellite remote sensing of ocean colour, continuing the activities of the remote sensing group created in the late 90’s. SOPhyE’s expertise spans a wide spectrum from: 1) studying phytoplankton community structure on the Scotian Shelf and Labrador Sea, including the impacts of climate change; 2) developing satellite ocean colour algorithms to infer phytoplankton biomass, assemblage, and primary production in the Northwest Atlantic, and; 3) using high-resolution multispectral satellite imagery to derive coastal bottom-habitat types. SOPhyE’s work supports DFO’s mandate and several programs, such as the Atlantic Zone Monitoring Program (AZMP), the Atlantic Zone Off-Shelf Monitoring Program (AZOMP), the Bedford Basin Monitoring Program (BBMP), Marine Conservation Targets (MCT), Marine Spatial Planning (MSP), and fisheries management.  
 
-### Current members
 
-#### <a href="https://orcid.org/0000-0001-9446-0005"><img src="images/orcidlogo.png" width="15"></a> Emmanuel Devred  
 
-#### <a href="https://orcid.org/0000-0001-5113-2378"><img src="images/orcidlogo.png" width="15"></a> Stephanie Clay  
+* [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing and modelling phytoplankton blooms in Canadian waters
 
-#### <a href="https://orcid.org/0000-0002-3685-1531"><img src="images/orcidlogo.png" width="15"></a> Kristen Wilson  
+<a target="_blank" href="images/screencap01.png">
+<img src="images/screencap01.png" alt="Screencap of the PhytoFit app" width="250"/>
+</a>
 
-#### <img src="images/orcidlogo.png" width="15"> Melanie Hardy  
 
-#### <img src="images/orcidlogo.png" width="15"> Tim Perry   
+* [Bras d'Or Lakes sampling and data visualization](https://mhardy.shinyapps.io/shinyBDL/): Monthly biogeochemical and physical data collected from stations in the Bras d'Or Lakes, Cape Breton, NS  
 
-### Previous members
-
-#### <a href="https://orcid.org/0009-0002-9929-2009"><img src="images/orcidlogo.png" width="15"></a> Raven Elwell (BIO)  
-
-#### <a href="https://orcid.org/0000-0002-5967-5788"><img src="images/orcidlogo.png" width="15"></a> Andrea Hilborn (IOS)  
+<a target="_blank" href="images/screencap_brasdor.png">
+<img src="images/screencap_brasdor.png" alt="Screencap of the Bras d'Or data app" width="300"/>
+</a>
 

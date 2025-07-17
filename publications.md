@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 ## Recent Publications
 
 Primary publications: :blue_square: Technical reports: :red_square:  
