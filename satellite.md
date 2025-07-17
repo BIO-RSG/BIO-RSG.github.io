@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Satellite
+## Satellite Remote Sensing
 
 
 * [Validation of chlorophyll-a models](https://bio-rsg.github.io/chla_model_performance_summary.html)

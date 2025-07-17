@@ -10,7 +10,7 @@ layout: default
 
 * [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing and modelling phytoplankton blooms in Canadian waters
 
-<a target="_blank" href="images/screencap01.png">
+<a target="_blank" href="images/sophye_poster_phytofit_01.png">
 <img src="images/screencap01.png" alt="Screencap of the PhytoFit app" width="250"/>
 </a>
 
