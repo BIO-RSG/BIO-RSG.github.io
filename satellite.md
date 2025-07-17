@@ -14,8 +14,8 @@ layout: default
 
 * [PhytoFit](https://github.com/BIO-RSG/PhytoFit): A Shiny app for viewing and modelling phytoplankton blooms in Canadian waters
 
-<a target="_blank" href="images/screencap01.png">
-<img src="images/screencap01.png" alt="Screencap of the PhytoFit app" width="250"/>
+<a target="_blank" href="images/sophye_poster_phytofit_01.png">
+<img src="images/sophye_poster_phytofit_01.png" alt="Screencap of the PhytoFit app" width="250"/>
 </a>
 
 
@@ -24,3 +24,10 @@ layout: default
 <a target="_blank" href="images/screencap_sst_nrt.png">
 <img src="images/screencap_sst_nrt.png" alt="Screencap of near-realtime sea surface temperature" width="250"/>
 </a>
+
+
+* [oceancolouR](https://github.com/BIO-RSG/oceancolouR): an (unofficial) R package with useful ocean colour processing functions   
+<a target="_blank" href="images/oceancolouRlogo.png">
+<img src="images/oceancolouRlogo.png" alt="Screencap of oceancolouR logo" width="120"/>
+</a>
+
