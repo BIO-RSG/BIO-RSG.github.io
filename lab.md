@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Laboratory Analysis
+## Lab
