@@ -6,6 +6,7 @@ layout: default
 
 #### Atlantic:
 
+* [Per-pixel spring bloom metrics](https://cioosatlantic.ca/erddap/griddap/bio_remote_sensing_occci_nwa_poly4_spring_bloom.html) in the Northwest Atlantic using DINEOF-gap-filled OC-CCI POLY4 chl-a data and the shifted Gaussian approach **1998-Present (ongoing)** (4 km spatial resolution) *Used in the [marea package](https://github.com/MarEcosystemApproaches/marea)  
 * [Daily Chlorophyll-a concentration](https://cioosatlantic.ca/erddap/info/bio_remote_sensing_occci_poly4/index.html) in the Northwest Atlantic using the POLY4 model with Rrs from the OC-CCI multisensor product, **1997-Present (ongoing)** (4 km spatial resolution)
 * [Daily Chlorophyll-a concentration](https://cioosatlantic.ca/erddap/info/bio_remote_sensing_modis_aqua_chl_poly4/index.html) in the Northwest Atlantic using the POLY4 model with Rrs retrieved by the MODIS-Aqua sensor, **2002-2023** (4 km spatial resolution)
 * [Satellite derived surface chlorophyll-a and suspended particulate matter](https://open.canada.ca/data/en/dataset/272f5cf1-52bb-416b-b92a-8bc9384fc24d) in the Bay of Fundy from **2003-2021** (300 m spatial resolution, MODIS-Aqua)
