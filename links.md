@@ -5,7 +5,7 @@ layout: default
 ## Links
 
 - [SOPhyE YouTube](https://www.youtube.com/@SOPhyE-group)  
-- [Pacific SST monitoring](https://ios-osd-dpg.github.io/Pacific_SST_Monitoring_Site/)  
+- [Pacific Satellite monitoring](https://ios-osd-dpg.github.io/Pacific_Satellite_Monitoring/)  
 - Github:  
   
   - [SOPhyE](https://github.com/BIO-RSG)  
